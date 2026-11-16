@@ -79,15 +79,3 @@ Final Bill : Rs 1125.0
 
 The program accepts the names and prices of multiple grocery items, calculates their total, and applies a 10% discount when the total exceeds Rs. 1000. It demonstrates the use of lists, loops, arithmetic operations, and conditional statements in Python.
 
-## Viva Questions
-
-1. What is an array?
-2. What is a list in Python?
-3. Why are arrays or lists used in this program?
-4. What is the purpose of the `for` loop?
-5. How is the total bill calculated?
-6. How is the discount calculated?
-7. How is the final bill calculated?
-8. Which data type is used to store item prices?
-9. Why is the `float` data type used for prices?
-10. What are some real-world applications of this grocery billing program?
